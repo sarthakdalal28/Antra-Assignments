@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\bin\Debug\net8.0\Exercise0302.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\bin\Debug\net8.0\Exercise0302.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\bin\Debug\net8.0\Exercise0302.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\bin\Debug\net8.0\Exercise0302.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\bin\Debug\net8.0\Exercise0302.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\refint\Exercise0302.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\Exercise0302.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Exercise0302\obj\Debug\net8.0\ref\Exercise0302.dll

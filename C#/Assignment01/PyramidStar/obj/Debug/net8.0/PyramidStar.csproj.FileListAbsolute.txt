@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\bin\Debug\net8.0\PyramidStar.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\bin\Debug\net8.0\PyramidStar.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\bin\Debug\net8.0\PyramidStar.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\bin\Debug\net8.0\PyramidStar.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\bin\Debug\net8.0\PyramidStar.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\refint\PyramidStar.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\PyramidStar.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\PyramidStar\obj\Debug\net8.0\ref\PyramidStar.dll

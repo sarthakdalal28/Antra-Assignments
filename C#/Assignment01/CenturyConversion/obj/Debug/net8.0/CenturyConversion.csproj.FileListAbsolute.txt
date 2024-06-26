@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\bin\Debug\net8.0\CenturyConversion.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\bin\Debug\net8.0\CenturyConversion.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\bin\Debug\net8.0\CenturyConversion.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\bin\Debug\net8.0\CenturyConversion.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\bin\Debug\net8.0\CenturyConversion.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\refint\CenturyConversion.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\CenturyConversion.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\CenturyConversion\obj\Debug\net8.0\ref\CenturyConversion.dll

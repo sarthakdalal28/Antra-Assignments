@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\bin\Debug\net8.0\Birthday.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\bin\Debug\net8.0\Birthday.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\bin\Debug\net8.0\Birthday.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\bin\Debug\net8.0\Birthday.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\bin\Debug\net8.0\Birthday.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\refint\Birthday.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\Birthday.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Birthday\obj\Debug\net8.0\ref\Birthday.dll

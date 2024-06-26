@@ -1,0 +1,38 @@
+1. What type would you choose for the following “numbers”?
+
+A person’s telephone number - string
+A person’s height - float or double
+A person’s age - int
+A person’s gender (Male, Female, Prefer Not To Answer) - enum
+A person’s salary - decimal
+A book’s ISBN - string
+A book’s price - decimal
+A book’s shipping weight - float or double
+A country’s population - int
+The number of stars in the universe - long
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business) - int
+
+
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+
+Ans: Value type data directly contain their data and are stored on the stack. Examples are 'int' and 'float'.
+Reference type data store reference to their data and are stored on the heap. Examples include 'class', 'array' and 'string'
+Boxing: The process of converting a value type to an object type
+Unboxing: The process of converting an object type back to a value type.
+
+
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+
+Ans: Managed Resource:
+- Resources that are managed by the .NET runtime (CLR).
+- The Garbage Collector (GC) automatically handles the release of these resources.
+Unmanaged Resource:
+- Resources that are not managed by the .NET runtime.
+- Requires explicit release by the programmer to prevent resource leaks.
+
+4. Whats the purpose of Garbage Collector in .NET?
+
+Ans: The Garbage Collector in .NET automatically manages memory allocation and deallocation.
+It frees up memory occupied by objects that are no longer in use.

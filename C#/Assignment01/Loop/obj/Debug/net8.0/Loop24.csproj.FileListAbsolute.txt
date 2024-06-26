@@ -1,0 +1,5 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Loop24\obj\Debug\net8.0\Loop24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Loop24\obj\Debug\net8.0\Loop24.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Loop24\obj\Debug\net8.0\Loop24.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Loop24\obj\Debug\net8.0\Loop24.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment01\Loop24\obj\Debug\net8.0\Loop24.sourcelink.json
