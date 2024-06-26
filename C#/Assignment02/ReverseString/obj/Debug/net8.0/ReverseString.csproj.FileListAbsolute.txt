@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\bin\Debug\net8.0\ReverseString.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\bin\Debug\net8.0\ReverseString.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\bin\Debug\net8.0\ReverseString.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\bin\Debug\net8.0\ReverseString.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\bin\Debug\net8.0\ReverseString.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\refint\ReverseString.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ReverseString.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\ReverseString\obj\Debug\net8.0\ref\ReverseString.dll

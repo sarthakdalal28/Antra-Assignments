@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\bin\Debug\net8.0\LongestSequence.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\bin\Debug\net8.0\LongestSequence.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\bin\Debug\net8.0\LongestSequence.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\bin\Debug\net8.0\LongestSequence.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\bin\Debug\net8.0\LongestSequence.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\refint\LongestSequence.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\LongestSequence.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment02\LongestSequence\obj\Debug\net8.0\ref\LongestSequence.dll
