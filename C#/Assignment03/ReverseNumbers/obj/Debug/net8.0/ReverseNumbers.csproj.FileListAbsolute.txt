@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\bin\Debug\net8.0\ReverseNumbers.exe
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\bin\Debug\net8.0\ReverseNumbers.deps.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\bin\Debug\net8.0\ReverseNumbers.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\bin\Debug\net8.0\ReverseNumbers.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\bin\Debug\net8.0\ReverseNumbers.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\refint\ReverseNumbers.dll
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.pdb
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ReverseNumbers.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\Antra\Antra-Assignments\C#\Assignment03\ReverseNumbers\obj\Debug\net8.0\ref\ReverseNumbers.dll
