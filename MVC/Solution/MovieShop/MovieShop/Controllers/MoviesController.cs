@@ -6,11 +6,11 @@ using Infrastructure.Services;
 
 namespace MovieShop.Controllers
 {
-    public class MoviesController : Controller
+    public class MoviesController : BaseController
     {
         private readonly IMovieRepository _movieRepository;
 
-        public MoviesController(IMovieRepository movieRepository)
+        public MoviesController(IMovieRepository movieRepository, IGenreService genreService) : base(genreService)
         {
             _movieRepository = movieRepository;
         }

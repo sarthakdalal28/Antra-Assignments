@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace MovieShop.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IMovieService _movieService;
         private readonly IGenreService _genreService;
-        public HomeController(IMovieService movieService, IGenreService genreService, ILogger<HomeController> logger)
+        public HomeController(IMovieService movieService, IGenreService genreService, ILogger<HomeController> logger) : base(genreService)
         {
             _logger = logger;
             _movieService = movieService;

@@ -1,13 +1,13 @@
 ﻿using ApplicationCore.Contracts.Services;
+using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MovieShop.Controllers
 {
-    public class CastController : Controller
+    public class CastController : BaseController
     {
         private readonly ICastService _castService;
-
-        public CastController(ICastService castService)
+        public CastController(ICastService castService, IGenreService genreService) : base(genreService)
         {
             _castService = castService;
         }

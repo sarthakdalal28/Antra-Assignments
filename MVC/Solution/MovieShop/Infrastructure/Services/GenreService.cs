@@ -25,7 +25,7 @@ namespace Infrastructure.Services
             _mapper = mapper;
         }
 
-        public async Task<dynamic> GetAllGenres()
+        public async Task<IEnumerable<GenreModel>> GetAllGenres()
         {
             var genres = await _genreRepository.ListAllAsync();
             var genreModels = _mapper.Map<IEnumerable<GenreModel>>(genres);

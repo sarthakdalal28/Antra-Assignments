@@ -9,7 +9,7 @@ namespace ApplicationCore.Contracts.Services
 {
     public interface IGenreService
     {
-        Task<dynamic> GetAllGenres();
+        Task<IEnumerable<GenreModel>> GetAllGenres();
         Task<IEnumerable<GenreModel>> GetAllGenresAsync();
     }
 }
