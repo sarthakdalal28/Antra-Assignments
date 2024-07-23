@@ -32,6 +32,10 @@ namespace Infrastructure.Services
         {
             return await _movieRepository.GetHighestGrossingMovies();
         }
+        public async Task<Movie> MovieDetails(int id)
+        {
+            return await _movieRepository.GetMovieDetails(id);
+        }
         public async Task<PaginatedResultSet<MovieCardModel>> GetMoviesByGenre(int genreId, int pageSize, int pageNumber)
         {
             var paginatedMovies = await _movieRepository.GetMoviesByGenre(genreId, pageSize, pageNumber);

@@ -1,4 +1,4 @@
-﻿@*@model ApplicationCore.Entities.MovieCardModel
+﻿@model ApplicationCore.Entities.MovieCardModel
 
 <div class="card">
     <img class="card-img-top" src="@Model.PosterUrl" alt="@Model.Title">
@@ -7,9 +7,9 @@
         <p class="card-text">@Model.Overview</p>
         <a href="@Url.Action("Details", "Movies", new { id = @Model.Id })" class="btn btn-primary">Details</a>
     </div>
-</div>*@
+</div>
 
-@model ApplicationCore.Entities.Movie
+@*@model ApplicationCore.Entities.MovieCardModel
 
 <div class="col-md-3 col-sm-6 mb-4">
     <div class="card h-100">
@@ -23,3 +23,4 @@
         </div>
     </div>
 </div>
+*@

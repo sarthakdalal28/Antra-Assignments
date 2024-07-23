@@ -42,7 +42,7 @@ namespace Infrastructure.Repository
                              .Include(m => m.Reviews)
                              .FirstOrDefaultAsync(m => m.Id == id);
         }
-        public async Task<PaginatedResultSet<Movie>> GetMoviesByGenre(int genreId, int pageSize = 30, int pageNumber = 1)
+        public async Task<PaginatedResultSet<Movie>> GetMoviesByGenre(int genreId, int pageSize = 24, int pageNumber = 1)
         {
             var totalMoviesCount = await dbContext.MovieGenres
                 .Where(g => g.GenreId == genreId)

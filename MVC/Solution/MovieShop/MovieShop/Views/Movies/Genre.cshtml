@@ -52,7 +52,7 @@
                     @if (Model.PageNumber > 1)
                     {
                         <li class="page-item">
-                            <a class="page-link" asp-action="Genre" asp-route-genreId="@genreId" asp-route-pageNumber="@(Model.PageNumber - 1)" aria-label="Previous">
+                            <a class="page-link" asp-action="Genre" asp-route-id="@ViewBag.GenreId" asp-route-pageNumber="@(Model.PageNumber - 1)" aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                             </a>
                         </li>
@@ -60,13 +60,13 @@
                     @for (var i = 1; i <= Model.TotalPages; i++)
                     {
                         <li class="page-item @(Model.PageNumber == i ? "active" : "")">
-                            <a class="page-link" asp-action="Genre" asp-route-genreId="@genreId" asp-route-pageNumber="@i">@i</a>
+                            <a class="page-link" asp-action="Genre" asp-route-id="@ViewBag.GenreId" asp-route-pageNumber="@i">@i</a>
                         </li>
                     }
                     @if (Model.PageNumber < Model.TotalPages)
                     {
                         <li class="page-item">
-                            <a class="page-link" asp-action="Genre" asp-route-genreId="@genreId" asp-route-pageNumber="@(Model.PageNumber + 1)" aria-label="Next">
+                            <a class="page-link" asp-action="Genre" asp-route-id="@ViewBag.GenreId" asp-route-pageNumber="@(Model.PageNumber + 1)" aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                             </a>
                         </li>
