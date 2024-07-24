@@ -38,5 +38,9 @@ namespace Infrastructure.Services
             var genreModels = _mapper.Map<IEnumerable<GenreModel>>(genres);
             return genreModels;
         }
+        public async Task<Genre> GetGenreByIdAsync(int id) 
+        {
+            return await _genreRepository.GetByIdAsync(id);
+        }
     }
 }

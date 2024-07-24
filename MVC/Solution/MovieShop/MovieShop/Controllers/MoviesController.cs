@@ -10,11 +10,13 @@ namespace MovieShop.Controllers
     {
         //private readonly IMovieRepository _movieRepository;
         private readonly IMovieService _movieService;
+        private readonly IGenreService _genreService;
 
         public MoviesController(IMovieService movieService, IGenreService genreService) : base(genreService)
         {
             //_movieRepository = movieRepository;
             _movieService = movieService;
+            _genreService = genreService;
         }
         public async Task<IActionResult> Details(int id)
         {
@@ -34,6 +36,8 @@ namespace MovieShop.Controllers
         public async Task<IActionResult> Genre(int id, int pageSize = 24, int pageNumber = 1)
         {
             var movies = await _movieService.GetMoviesByGenre(id, pageSize, pageNumber);
+            var genre = await _genreService.GetGenreByIdAsync(id); 
+            ViewBag.GenreName = genre.Name; 
             ViewBag.GenreId = id;
             return View(movies);
         }
